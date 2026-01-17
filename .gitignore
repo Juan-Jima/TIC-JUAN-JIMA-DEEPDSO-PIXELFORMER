@@ -1,0 +1,7 @@
+# Ignorar binarios y build
+build/
+bin/
+*.exe
+*.out
+*.so
+*.dll
